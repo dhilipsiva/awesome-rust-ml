@@ -12,6 +12,7 @@ Awesome Machine Learning / Deep Learning Rust repositories
 
 ## Library / Framework
 
+* [Candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust 
 * [Burn](https://github.com/tracel-ai/burn) - a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 * [Juice (Formerly, Leaf)](https://github.com/spearow/juice) - The Hacker's Machine Learning Engine
 * [Linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework.
